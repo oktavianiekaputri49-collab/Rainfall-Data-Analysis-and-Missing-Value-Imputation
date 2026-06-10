@@ -1,0 +1,34 @@
+📊 Rainfall Data Analysis and Missing Value Imputation
+This project focuses on data cleaning and missing value handling in daily rainfall data. The analysis aims to identify invalid entries, including missing values and special codes (8888), and replace them using the Mean Imputation method to create a more complete, consistent, and analysis-ready dataset.
+
+Analysis Performed:
+Identifying missing and invalid data entries
+Replacing special codes (8888) with missing values
+Calculating the mean of valid rainfall observations
+Imputing missing values using Mean Imputation
+Creating a cleaned and complete dataset
+Evaluating the impact of the imputation process
+Interpreting the data cleaning results
+
+The analysis shows that several rainfall observations contained missing values and special codes that could affect analytical results. After the data cleaning process, all missing values were successfully replaced using the calculated mean value of 8.30 mm, resulting in a complete dataset suitable for statistical analysis, data visualization, and further modeling.
+The imputation process helps reduce information loss caused by incomplete data while preserving the overall characteristics of the dataset. This technique is widely used in data preprocessing to improve data quality before conducting advanced analyses.
+
+Tools & Methods:
+Microsoft Excel
+Data Cleaning
+Mean Imputation
+Descriptive Statistics
+Data Preprocessing
+Missing Value Handling
+
+Through this project, I developed skills in:
+Data Cleaning
+Data Preprocessing
+Missing Value Imputation
+Descriptive Statistics
+Microsoft Excel
+Data Quality Assessment
+Statistical Analysis
+Data Interpretation
+
+#DataAnalysis #DataCleaning #DataPreprocessing #MissingValueImputation #MeanImputation #Statistics #DescriptiveStatistics #Excel #MicrosoftExcel #RainfallAnalysis #ClimateData #EnvironmentalData #DataQuality #DataAnalytics #Portfolio #DataScience #DataSciencePortfolio #OpenData #StatisticalAnalysis #DataManagement
